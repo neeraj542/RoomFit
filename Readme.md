@@ -1,6 +1,9 @@
-# RoomieConnect
+# RoomieConnect (FlatInflux)
 
 **RoomieConnect** is a web application designed to simplify the process of finding a room and a roommate. This user-friendly platform allows users to post about vacancies, search for rooms, and connect with potential roommates seamlessly.
+
+![image](https://github.com/user-attachments/assets/5c1043f8-fba8-46cb-ad64-f39a818c4c5e)
+
 
 ## Features
 
